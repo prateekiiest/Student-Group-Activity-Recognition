@@ -1,0 +1,21 @@
+User Group, Location, Time, Duration 
+u30 u57,in[53_commons],310,15
+u30 u57,in[53_commons],330,10
+u31 u32 u46 u57,in[sudikoff],105,10
+u31 u57,in[sudikoff],145,15
+u13 u36 u57,in[sudikoff],200,10
+u13 u36 u57,in[sudikoff],445,10
+u13 u36 u57,in[sudikoff],545,15
+u13 u36 u57,in[north-main],1168,10
+u13 u36 u57,in[sudikoff],1188,50
+u13 u36 u57,in[sudikoff],1253,15
+u16 u57,in[north-main],480,10
+u18 u57,near[kemeny;,455,10
+u18 u57,in[north-main],742,150
+u18 u57,in[north-main],897,105
+u18 u57,in[north-main],1017,50
+u18 u57,in[north-main],1072,30
+u18 u57,in[north-main],1112,10
+u18 u57,in[north-main],1127,10
+u18 u57,in[north-main],1142,10
+u18 u57,in[north-main],1424,10
