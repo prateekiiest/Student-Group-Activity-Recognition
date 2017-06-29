@@ -1,0 +1,4 @@
+User Group, Location, Time, Duration 
+u30 u32 u41,in[baker-berry],15,10
+u30 u32 u41,in[baker-berry],70,15
+u32 u41,in[baker-berry],140,10
