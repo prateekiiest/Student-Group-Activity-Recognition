@@ -1,0 +1,22 @@
+User Group, Location, Time, Duration 
+u30 u52,in[kemeny],1341,10
+u52 u57,in[north-main],40,10
+u52 u57,in[north-main],560,10
+u52 u57,in[north-main],590,30
+u52 u57,in[north-main],625,100
+u52 u57,in[north-main],730,45
+u52 u57,in[north-main],785,10
+u52 u57,in[north-main],800,15
+u52 u57,in[north-main],820,10
+u52 u57,in[north-main],850,25
+u52 u57,in[north-main],880,50
+u52 u57,in[north-main],965,40
+u52 u57,in[north-main],1020,15
+u52 u57,in[north-main],1040,25
+u52 u57,in[north-main],1080,25
+u52 u57,in[north-main],1115,10
+u52 u57,in[north-main],1131,15
+u52 u57,in[north-main],1151,10
+u42 u52,near[massrow;,1251,10
+u09 u18 u52,in[north-main],275,20
+u09 u52,in[north-main],90,45
