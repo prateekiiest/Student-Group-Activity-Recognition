@@ -1,0 +1,8 @@
+User Group, Location, Time, Duration 
+u42 u51,in[sudikoff],0,10
+u42 u51,in[sudikoff],20,15
+u42 u51,in[sudikoff],40,15
+u42 u51,in[sudikoff],60,15
+u13 u51,in[vac],120,35
+u13 u51,in[vac],160,25
+u07 u51,in[sudikoff],330,10
