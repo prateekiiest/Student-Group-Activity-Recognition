@@ -1,0 +1,11 @@
+User Group, Location, Time, Duration 
+u22 u32 u41,in[baker-berry],320,10
+u32 u41,in[baker-berry],300,20
+u32 u41,in[baker-berry],590,10
+u32 u41,in[baker-berry],630,10
+u22 u41,in[baker-berry],135,10
+u13 u36 u41,in[sudikoff],370,10
+u08 u41,in[baker-berry],220,10
+u08 u22 u32 u41,near[baker-berry;,575,15
+u08 u22 u41,in[baker-berry],200,10
+u08 u32 u41,in[baker-berry],605,10

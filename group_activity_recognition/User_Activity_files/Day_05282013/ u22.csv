@@ -1,0 +1,11 @@
+User Group, Location, Time, Duration 
+u22 u32 u41,in[baker-berry],320,10
+u22 u32,in[baker-berry],345,15
+u22 u32,in[baker-berry],530,25
+u22 u41,in[baker-berry],135,10
+u05 u22 u30,in[kemeny],1391,10
+u08 u22,in[baker-berry],720,10
+u08 u22,near[baker-berry;,775,10
+u08 u22 u32 u41,in[baker-berry],575,15
+u08 u22 u41,in[baker-berry],200,10
+u08 u22 u32,in[baker-berry],680,10
