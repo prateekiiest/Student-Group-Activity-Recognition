@@ -1,0 +1,23 @@
+User Group, Location, Time, Duration 
+u13 u32 u36,in[sudikoff],20,10
+u13 u32 u36,in[sudikoff],35,10
+u13 u32 u36,in[sudikoff],55,10
+u13 u32 u36,in[sudikoff],90,20
+u13 u32 u36,in[sudikoff],135,10
+u13 u32 u36,in[sudikoff],195,15
+u13 u36 u52 u57,in[sudikoff],420,15
+u13 u36 u52,in[sudikoff],370,10
+u13 u36,in[sudikoff],295,40
+u13 u36,in[sudikoff],340,10
+u13 u32,in[sudikoff],180,15
+u13 u36 u57,in[sudikoff],510,20
+u13 u36,in[sudikoff],45,10
+u13 u36,in[sudikoff],65,10
+u13 u36,in[sudikoff],235,10
+u13 u36,in[sudikoff],250,15
+u13 u36,in[sudikoff],275,20
+u13 u36,in[sudikoff],440,15
+u13 u36,in[sudikoff],1312,25
+u13 u36,in[sudikoff],1357,15
+u13 u36,in[sudikoff],1377,25
+u13 u36,in[sudikoff],1407,25

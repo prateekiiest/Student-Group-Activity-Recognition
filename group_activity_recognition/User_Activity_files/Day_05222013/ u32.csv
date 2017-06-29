@@ -1,0 +1,8 @@
+User Group, Location, Time, Duration 
+u13 u32 u36,in[occum],20,10
+u13 u32 u36,in[silsby-rocky],35,10
+u13 u32 u36,in[occum],55,10
+u13 u32 u36,in[silsby-rocky],90,20
+u13 u32 u36,in[sudikoff],135,10
+u13 u32 u36,in[sudikoff],195,15
+u13 u32,in[sudikoff],180,15
