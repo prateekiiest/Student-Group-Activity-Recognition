@@ -1,0 +1,18 @@
+User Group, Location, Time, Duration 
+u08 u41 u49 u54,in[baker-berry],590,10
+u08 u54,in[baker-berry],420,15
+u08 u54,in[baker-berry],440,10
+u08 u54,in[baker-berry],455,10
+u08 u54,in[baker-berry],375,10
+u08 u30 u32 u41 u54,in[baker-berry],645,15
+u08 u30 u32 u41 u54,in[baker-berry],725,10
+u08 u30 u32 u41 u54,in[baker-berry],740,10
+u08 u30 u32 u41 u54,in[baker-berry],765,10
+u08 u30 u32 u41 u54,in[baker-berry],885,10
+u08 u49 u54,in[baker-berry],505,15
+u08 u49 u54,in[baker-berry],525,10
+u08 u49 u54,in[baker-berry],545,25
+u08 u49 u54,in[baker-berry],580,10
+u08 u49 u54,in[baker-berry],630,15
+u08 u22 u49 u54,in[baker-berry],405,15
+u08 u30 u32 u41,in[baker-berry],955,15

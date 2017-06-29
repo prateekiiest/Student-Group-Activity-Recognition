@@ -1,0 +1,19 @@
+User Group, Location, Time, Duration 
+u30 u32 u41 u54,in[baker-berry],1015,20
+u30 u32 u41,in[silsby-rocky],275,30
+u30 u32 u41,in[silsby-rocky],255,20
+u30 u32 u41,in[silsby-rocky],315,20
+u30 u32 u41,in[silsby-rocky],465,10
+u30 u32 u41,in[silsby-rocky],505,10
+u30 u32 u41,in[silsby-rocky],530,15
+u30 u32 u41,in[baker-berry],660,15
+u30 u32 u41,in[baker-berry],970,10
+u30 u32,in[occum],625,15
+u30 u32,in[occum],600,10
+u30 u32,in[occum],610,10
+u08 u30 u32 u41 u54,in[baker-berry],645,15
+u08 u30 u32 u41 u54,in[baker-berry],725,10
+u08 u30 u32 u41 u54,in[baker-berry],740,10
+u08 u30 u32 u41 u54,in[baker-berry],765,10
+u08 u30 u32 u41 u54,in[baker-berry],885,10
+u08 u30 u32 u41,in[baker-berry],955,15
