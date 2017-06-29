@@ -12,8 +12,8 @@ Recognition of group activities is fundamentally different from single, or multi
 
 Entire Documentation Available in [Documentation](https://github.com/prateekiiest/Student-Group-Activity-Recognition/blob/master/FinalDoc.ipynb)
 
-Main code in group activity recognition folder.
+Main code in [group activity recognition folder](https://github.com/prateekiiest/Student-Group-Activity-Recognition/tree/master/group_activity_recognition) 
 
-Some plots are also being updated in plots folder under various modules.
+Some plots are also being updated in **plots** folder under various modules.
 
 Inferences here - [](https://github.com/prateekiiest/Student-Group-Activity-Recognition/blob/master/Inferences.md)
