@@ -16,4 +16,4 @@ Main code in [group activity recognition folder](https://github.com/prateekiiest
 
 Some plots are also being updated in **plots** folder under various modules.
 
-Inferences here - [](https://github.com/prateekiiest/Student-Group-Activity-Recognition/blob/master/Inferences.md)
+Inferences  [here](https://github.com/prateekiiest/Student-Group-Activity-Recognition/blob/master/Inferences.md)
