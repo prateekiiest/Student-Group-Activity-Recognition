@@ -1,0 +1,16 @@
+User Group, Location, Time, Duration 
+u52 u57,in[north-main],30,25
+u52 u57,in[north-main],80,10
+u52 u57,in[north-main],115,15
+u52 u57,in[north-main],326,35
+u09 u52 u57,in[north-main],452,10
+u09 u57,in[north-main],492,10
+u09 u57,in[north-main],528,30
+u09 u57,in[north-main],833,180
+u09 u57,in[north-main],1175,10
+u09 u57,in[north-main],1190,35
+u19 u51 u57,in[sudikoff],1395,20
+u19 u51 u57,in[sudikoff],1420,15
+u09 u52 u57,in[north-main],396,10
+u09 u52 u57,in[north-main],608,20
+u09 u52 u57,in[north-main],818,15
