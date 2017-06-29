@@ -1,0 +1,3 @@
+User Group, Location, Time, Duration 
+u00 u32 u57,in[lsb],0,10
+u00 u13,in[sudikoff],1374,10
