@@ -1,0 +1,3 @@
+User Group, Location, Time, Duration 
+u25 u32 u42 u57,near[dana-library;,1180,10
+u25 u42 u57 u59,in[lsb],1190,10

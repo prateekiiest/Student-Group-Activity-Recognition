@@ -1,0 +1,7 @@
+User Group, Location, Time, Duration 
+u00 u07 u32 u57,in[lsb],1397,15
+u00 u07 u32 u57,in[lsb],1417,15
+u00 u32 u57,in[lsb],1432,8
+u32 u59,in[53_commons],1307,10
+u25 u32 u42 u57,near[dana-library;,1180,10
+u25 u32 u42 u57,in[lsb],1180,10

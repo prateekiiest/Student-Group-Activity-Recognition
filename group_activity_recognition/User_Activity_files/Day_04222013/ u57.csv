@@ -1,0 +1,20 @@
+User Group, Location, Time, Duration 
+u00 u07 u32 u57,near[dana-library;,1397,15
+u00 u07 u32 u57,in[lsb],1417,15
+u00 u32 u57,in[lsb],1432,8
+u52 u57,in[north-main],640,30
+u52 u57,in[north-main],696,25
+u52 u57,in[north-main],726,35
+u52 u57,in[north-main],767,70
+u52 u57,in[north-main],838,10
+u52 u57,in[north-main],1135,20
+u13 u57,in[sudikoff],1322,10
+u13 u51 u57,in[sudikoff],1347,15
+u13 u51 u57,in[sudikoff],1367,15
+u14 u57,in[hopkins],1260,10
+u25 u32 u42 u57,in[lsb],1180,10
+u25 u42 u57 u59,in[lsb],1190,10
+u07 u57,in[hopkins],408,15
+u07 u57,in[hopkins],433,10
+u07 u52 u57,in[sudikoff],283,10
+u07 u52 u57,in[sudikoff],368,10

@@ -1,0 +1,7 @@
+User Group, Location, Time, Duration 
+u00 u07 u32 u57,in[lsb],1397,15
+u00 u07 u32 u57,in[lsb],1417,15
+u07 u57,in[hopkins],408,15
+u07 u57,in[hopkins],433,10
+u07 u52 u57,in[sudikoff],283,10
+u07 u52 u57,in[sudikoff],368,10
