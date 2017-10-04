@@ -105,6 +105,8 @@ $ git push origin :[name_of_your_new_branch]
 
 Resource [GitHub](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
+
+
 # Contributing
 
 When contributing to this repository, please first discuss the change you wish to make via issue or any other method with the owners of this repository before making a change. 
